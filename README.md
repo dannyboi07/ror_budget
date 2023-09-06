@@ -252,3 +252,11 @@ Give a ⭐️ if you like this project!
 ## 📝 License
 
 This project is [MIT](./MIT.md) licensed.
+
+# ENV SETUP
+- PORT
+- DB_USER
+- DB_PASSWORD
+- DB_NAME
+- DB_PORT
+- RAILS_ENV
